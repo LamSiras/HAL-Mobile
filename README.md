@@ -1,5 +1,6 @@
 # Nhom7_QuanLyAppBanDienThoai_T6_Ca3
 # HAL-Mobile
+  # Giới thiệu chung
 ![image](https://github.com/LamSiras/HAL-Mobile/assets/144895092/0a34a95e-5631-4c54-ac4e-1055cb5dde42)
 
 Công ty HAL Mobile - Kết nối công nghệ, Kết nối cuộc sống
@@ -11,3 +12,9 @@ Chúng tôi cam kết đảm bảo mỗi lượt ghé thăm website của quý k
   Tại HAL Mobile, chúng tôi không chỉ cung cấp các sản phẩm công nghệ hàng đầu mà còn mang đến trải nghiệm mua sắm tuyệt vời nhất cho quý khách. Hãy đồng hành cùng chúng tôi để cảm nhận sự khác biệt đáng kể trong cách mà công nghệ có thể làm thay đổi cuộc sống của bạn.
   
 Để biết thêm thông tin chi tiết, vui lòng truy cập: (http://www.halmobile.vn)
+
+  # Danh sách các thành viên
+1. Nguyễn Phúc Thanh Lâm - 21DH110960
+2. Lê Văn An - 21DH110010
+3. Nguyễn Gia Huy - 21DH112511
+<img src="![bro](https://github.com/LamSiras/Nhom7_QuanLyAppBanDienThoai_T6_Ca3/assets/144895092/05de0bca-ff19-449f-9a25-100fe4d4d491)" height="300" width="500" />
