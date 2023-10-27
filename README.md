@@ -19,7 +19,8 @@ Chúng tôi cam kết đảm bảo mỗi lượt ghé thăm website của quý k
 
   # Các hình ảnh về giao diện trang web
   
-![image](https://github.com/LamSiras/Nhom7_QuanLyAppBanDienThoai_T6_Ca3/assets/144895092/8fe72ee9-6b6c-4e34-a510-61a1bfdf4727)
+![image](https://github.com/LamSiras/Nhom7_QuanLyAppBanDienThoai_T6_Ca3/assets/144895092/09b53d84-ed95-4e26-a77c-bad2952f2cb8)
+
 1. Trang chủ
 
 
