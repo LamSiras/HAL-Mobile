@@ -1,4 +1,4 @@
-# Nhom7_QuanLyAppBanDienThoai_T6_Ca3
+![image](https://github.com/LamSiras/Nhom7_QuanLyAppBanDienThoai_T6_Ca3/assets/144895092/9b5dc33c-c306-4b23-9e68-486fa7daae8d)# Nhom7_QuanLyAppBanDienThoai_T6_Ca3
   # Giới thiệu chung
 ![image](https://github.com/LamSiras/HAL-Mobile/assets/144895092/0a34a95e-5631-4c54-ac4e-1055cb5dde42)
 
@@ -22,6 +22,7 @@ Chúng tôi cam kết đảm bảo mỗi lượt ghé thăm website của quý k
 ![image](https://github.com/LamSiras/Nhom7_QuanLyAppBanDienThoai_T6_Ca3/assets/144895092/09b53d84-ed95-4e26-a77c-bad2952f2cb8)
 
 1. Trang chủ
+
 
 
 ![image](https://github.com/LamSiras/Nhom7_QuanLyAppBanDienThoai_T6_Ca3/assets/144895092/6fbc5fd2-7799-494d-9584-c25029d5b0a3) 
