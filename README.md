@@ -34,6 +34,9 @@ Chúng tôi cam kết đảm bảo mỗi lượt ghé thăm website của quý k
 ![image](https://github.com/LamSiras/Nhom7_QuanLyAppBanDienThoai_T6_Ca3/assets/144895092/2e31d092-1e46-43e8-bdb8-97021f80f681)
 3. Trang chi tiết sản phẩm
 
+Chúc mình sinh nhật HUFLIT và thầy Nguyễn Tấn Khoa
+![image](https://github.com/LamSiras/Nhom7_QuanLyAppBanDienThoai_T6_Ca3/assets/144895092/58ba03a3-6e8c-4547-97b9-a04b5a7f73cb)
+
 
 
 
