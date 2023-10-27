@@ -16,7 +16,6 @@ Chúng tôi cam kết đảm bảo mỗi lượt ghé thăm website của quý k
 1. Nguyễn Phúc Thanh Lâm - 21DH110960 - Lead 
 2. Lê Văn An - 21DH110010 - Product Owner
 3. Nguyễn Gia Huy - 21DH112511 - Srcum Master
-![bro](https://github.com/LamSiras/Nhom7_QuanLyAppBanDienThoai_T6_Ca3/assets/144895092/05de0bca-ff19-449f-9a25-100fe4d4d491)
 
   # Các hình ảnh về giao diện trang web
   
