@@ -22,6 +22,7 @@ Chúng tôi cam kết đảm bảo mỗi lượt ghé thăm website của quý k
 - Quản lý được doanh thu, số lượt xem, đánh giá,...
 - Quản lý các chương trình khuyến mãi
   # Hướng phát triển
+  ![image](https://github.com/LamSiras/Nhom7_QuanLyAppBanDienThoai_T6_Ca3/assets/144895092/bde47b4c-4a30-4a3e-92ac-704aac5394cd)
 - User có thể giám sát quá trình vận chuyển sản phẩm
 - User có thể thanh toán online
 
