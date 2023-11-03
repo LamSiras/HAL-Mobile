@@ -23,7 +23,7 @@ Chúng tôi cam kết đảm bảo mỗi lượt ghé thăm website của quý k
 
 ### Liên Hệ
 
-Nếu bạn có bất kỳ câu hỏi hoặc góp ý, vui lòng liên hệ với chúng tôi qua email: [10a2thanhlam@gmail.com](mailto:te@example.com).
+Nếu bạn có bất kỳ câu hỏi hoặc góp ý, vui lòng liên hệ với chúng tôi qua email: [halmobile@gmail.com](mailto:te@example.com).
 
 ## Công Nghệ Sử Dụng
 ![image](https://github.com/LamSiras/Nhom7_QuanLyAppBanDienThoai_T6_Ca3/assets/144895092/c35d509c-baf8-4604-a691-54a4d8373e2b)
