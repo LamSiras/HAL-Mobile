@@ -15,28 +15,15 @@ Chúng tôi cam kết đảm bảo mỗi lượt ghé thăm website của quý k
 1. Nguyễn Phúc Thanh Lâm - 21DH110960 - Lead 
 2. Lê Văn An - 21DH110010 - Product Owner
 3. Nguyễn Gia Huy - 21DH112511 - Srcum Master
-
-  # Các hình ảnh về giao diện trang web
-  
-![image](https://github.com/LamSiras/Nhom7_QuanLyAppBanDienThoai_T6_Ca3/assets/144895092/09b53d84-ed95-4e26-a77c-bad2952f2cb8)
-
-1. Trang chủ
-
-
-
-![image](https://github.com/LamSiras/Nhom7_QuanLyAppBanDienThoai_T6_Ca3/assets/144895092/468162d3-6e09-4986-827b-0f2df4a661e6)
-2. Trang sản phẩm
-
-
-
-
-
-![image](https://github.com/LamSiras/Nhom7_QuanLyAppBanDienThoai_T6_Ca3/assets/144895092/2e31d092-1e46-43e8-bdb8-97021f80f681)
-3. Trang chi tiết sản phẩm
-
-
-<img height="550" width="1724" src="https://images.pexels.com/photos/7600420/pexels-photo-7600420.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"></img>
-<h1 align="center">Chúc mừng sinh nhật HUFLIT và thầy Nguyễn Tấn Khoa</h1>
+  # Công nghệ sử dụng
+- C#, MVC, MySQL, Github, Msproject,...
+  # Những gì đã làm được
+- Quản lý được các sản phẩm bán ra
+- Quản lý được doanh thu, số lượt xem, đánh giá,...
+- Quản lý các chương trình khuyến mãi
+  # Hướng phát triển
+- User có thể giám sát quá trình vận chuyển sản phẩm
+- User có thể thanh toán online
 
 
 
