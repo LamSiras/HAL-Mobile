@@ -17,8 +17,6 @@ Chúng tôi cam kết đảm bảo mỗi lượt ghé thăm website của quý k
 
 ## Nhóm
 
-### Thành Viên Nhóm
-
 1. Nguyễn Phúc Thanh Lâm - 21DH110960 - Lead 
 2. Lê Văn An - 21DH110010 - Product Owner
 3. Nguyễn Gia Huy - 21DH112511 - Srcum Master
