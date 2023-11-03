@@ -1,5 +1,8 @@
-  # Giới thiệu chung
-![image](https://github.com/LamSiras/HAL-Mobile/assets/144895092/0a34a95e-5631-4c54-ac4e-1055cb5dde42)
+# HAL_MOBILE
+
+![image](https://github.com/LamSiras/Nhom7_QuanLyAppBanDienThoai_T6_Ca3/assets/144895092/bde47b4c-4a30-4a3e-92ac-704aac5394cd)
+
+## Giới Thiệu Đề Tài
 
 Công ty HAL_Mobile - Kết nối công nghệ, Kết nối cuộc sống
 
@@ -11,22 +14,49 @@ Chúng tôi cam kết đảm bảo mỗi lượt ghé thăm website của quý k
   
 Để biết thêm thông tin chi tiết, vui lòng truy cập: (http://www.halmobile.vn)
 
-  # Danh sách các thành viên
+
+## Nhóm
+
+### Thành Viên Nhóm
+
 1. Nguyễn Phúc Thanh Lâm - 21DH110960 - Lead 
 2. Lê Văn An - 21DH110010 - Product Owner
 3. Nguyễn Gia Huy - 21DH112511 - Srcum Master
-  # Công nghệ sử dụng
-- C#, MVC, MySQL, Github, Msproject,...
-  # Những gì đã làm được
+
+### Liên Hệ
+
+Nếu bạn có bất kỳ câu hỏi hoặc góp ý, vui lòng liên hệ với chúng tôi qua email: [10a2thanhlam@gmail.com](mailto:te@example.com).
+
+## Công Nghệ Sử Dụng
+![image](https://github.com/LamSiras/Nhom7_QuanLyAppBanDienThoai_T6_Ca3/assets/144895092/c35d509c-baf8-4604-a691-54a4d8373e2b)
+
+- **Ngôn Ngữ Lập Trình**: C#
+- **Framework Web**: MVC
+- **Cơ Sở Dữ Liệu**: MySQL 
+- **Công Cụ Quản Lý Phiên Bản**: Git
+
+
+## Những Gì Đã Làm Được
+
 - Quản lý được các sản phẩm bán ra
 - Quản lý được doanh thu, số lượt xem, đánh giá,...
 - Quản lý các chương trình khuyến mãi
-  # Hướng phát triển
-  ![image](https://github.com/LamSiras/Nhom7_QuanLyAppBanDienThoai_T6_Ca3/assets/144895092/bde47b4c-4a30-4a3e-92ac-704aac5394cd)
-- User có thể giám sát quá trình vận chuyển sản phẩm
-- User có thể thanh toán online
 
+## Hướng Phát Triển
 
+Đây là một danh sách các tính năng sắp tới, sửa lỗi, cải tiến sẽ được công ty chúng tôi dự định thực hiện.
+
+- Giám sát quá trình vận chuyển của sản phẩm
+- Thanh toán online
+## Bản Quyền
+
+Dự án này được phân phối dưới giấy phép của thầy Nguyễn Tấn Khoa. Xem tệp [LICENSE](LICENSE) để biết thêm chi tiết.
+
+---
+© 2023 HAL_MOBILE
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 
 
