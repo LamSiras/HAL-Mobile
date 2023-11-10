@@ -26,29 +26,8 @@ Chúng tôi cam kết đảm bảo mỗi lượt ghé thăm website của quý k
 Nếu bạn có bất kỳ câu hỏi hoặc góp ý, vui lòng liên hệ với chúng tôi qua email: [halmobile@gmail.com](mailto:te@example.com).
 
 ## Công Nghệ Sử Dụng
-![image](https://github.com/LamSiras/Nhom7_QuanLyAppBanDienThoai_T6_Ca3/assets/144895092/c35d509c-baf8-4604-a691-54a4d8373e2b)
 
-- **Ngôn Ngữ Lập Trình**: C#
-- **Framework Web**: MVC
-- **Cơ Sở Dữ Liệu**: MySQL 
-- **Công Cụ Quản Lý Phiên Bản**: Git
-
-
-## Những Gì Đã Làm Được
-
-- Quản lý được các sản phẩm bán ra
-- Quản lý được doanh thu, số lượt xem, đánh giá,...
-- Quản lý các chương trình khuyến mãi
-
-## Hướng Phát Triển
-
-Đây là một danh sách các tính năng sắp tới, sửa lỗi, cải tiến sẽ được công ty chúng tôi dự định thực hiện.
-
-- Giám sát quá trình vận chuyển của sản phẩm
-- Thanh toán online
-## Bản Quyền
-
-Dự án này được phân phối dưới giấy phép của thầy Nguyễn Tấn Khoa. Xem tệp [LICENSE](LICENSE) để biết thêm chi tiết.
+- **Ngôn Ngữ Lập Trình**: facebook
 
 ---
 © 2023 HAL_MOBILE
