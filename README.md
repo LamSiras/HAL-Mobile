@@ -17,9 +17,9 @@ Chúng tôi cam kết đảm bảo mỗi lượt ghé thăm website của quý k
 
 ## Nhóm
 
-1. Nguyễn Phúc Thanh Lâm - 21DH110960 - Lead 
-2. Lê Văn An - 21DH110010 - Product Owner
-3. Nguyễn Gia Huy - 21DH112511 - Srcum Master
+1. Nguyễn Phúc Thanh Lâm - 21DH110960 - Lead, Dev 
+2. Lê Văn An - 21DH110010 - Product Owner, Dev
+3. Nguyễn Gia Huy - 21DH112511 - Srcum Master, Dev 
 
 ### Liên Hệ
 
@@ -27,7 +27,28 @@ Nếu bạn có bất kỳ câu hỏi hoặc góp ý, vui lòng liên hệ với
 
 ## Công Nghệ Sử Dụng
 
-- **Ngôn Ngữ Lập Trình**: facebook
+- **Ngôn Ngữ Lập Trình**: C#
+- **Framework**: MVC
+- **Cơ sở dữ liệu**: MySQL
+- **Công cụ quản lý phiên bản**: Git
+## Những gì đã làm được
+- Tạo được layout ưa nhìn cho Trang chủ, Danh mục sản phẩm, Chi tiết sản phẩm, Thanh toán
+- Đăng ký, Đăng nhập, Đăng xuất
+- Phân quyền cho Admin và User
+- Phân loại sản phẩm điện thoại và phụ kiện
+- Quản lý được các sản phẩm bán ra
+- Quản lý các khuyến mãi
+- Quản lý doanh thu
+- Quản lý lượt view và các đánh giá của gười dùng
+- Quản lý xác nhận đơn hàng
+## Hướng phát triển
+ Công ty của chúng tôi sẽ cố gắng phát triển thêm các chức năng để tối ưu hóa trải nghiệm cho người dùng, đem lại những tiện ích thiết thực:
+ - Thanh toán Online: Liên kết với tài khoản Momo, VNPay
+ - Tài khoản được liên kết với Gmail, Facebook
+ - Phân loại khách hàng thân thiết
+ - Xem được quá trình vận chuyển của đơn hàng
+ - Hủy đơn hàng khi đơn hàng chưa được xác nhận
+
 
 ---
 © 2023 HAL_MOBILE
