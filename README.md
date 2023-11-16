@@ -1,6 +1,7 @@
 # HAL_MOBILE
 
-![image](https://github.com/LamSiras/Nhom7_QuanLyAppBanDienThoai_T6_Ca3/assets/144895092/bde47b4c-4a30-4a3e-92ac-704aac5394cd)
+[![image](https://github.com/LamSiras/Gi-i-thi-u-trung-t-m-th-ng-m-i/assets/144895092/d455ddd6-4fcd-4e6f-93d6-65b312cfe3a8)](https://scontent.fsgn5-2.fna.fbcdn.net/v/t1.15752-9/368401705_1345270609715184_7712038334696254441_n.png?_nc_cat=105&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=8JB9ksgM-awAX8d0VMu&_nc_ht=scontent.fsgn5-2.fna&oh=03_AdTOXpviEkN5t0xubQ_MQXmMXQeIFwMQ-AfoG8B1q0x87w&oe=657D4835)
+
 
 ## Giới thiệu đề tài
 
@@ -28,12 +29,17 @@ HAL Mobile không chỉ cung cấp sản phẩm công nghệ hàng đầu mà c�
 
 Nếu bạn có bất kỳ câu hỏi hoặc góp ý, vui lòng liên hệ với chúng tôi qua email: [halmobile@gmail.com](mailto:te@example.com).
 
+
 ## Công Nghệ Sử Dụng
 
-- **Ngôn Ngữ Lập Trình**: C#
-- **Framework**: MVC
-- **Cơ sở dữ liệu**: MySQL
-- **Công cụ quản lý phiên bản**: Git
+| Tên Công Nghệ       | Mô Tả Ngắn                                 |
+|---------------------|--------------------------------------------|
+| [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)              | Ngôn ngữ lập trình đa nền tảng phổ biến của Microsoft.   |
+| [MVC](https://dotnet.microsoft.com/apps/aspnet/mvc)                 | Mô hình phát triển web MVC cho ứng dụng ASP.NET.          |
+| [MySQL](https://www.mysql.com/)                                    | Hệ quản trị cơ sở dữ liệu mã nguồn mở phổ biến.         |
+| [GitHub](https://github.com/)                                     | Nền tảng lưu trữ mã nguồn và quản lý dự án phần mềm.     |
+
+
 ## Những gì đã làm được
 - Tạo được layout ưa nhìn cho Trang chủ, Danh mục sản phẩm, Chi tiết sản phẩm, Thanh toán
 - Đăng ký, Đăng nhập, Đăng xuất
@@ -46,8 +52,13 @@ Nếu bạn có bất kỳ câu hỏi hoặc góp ý, vui lòng liên hệ với
 - Quản lý xác nhận đơn hàng
 ## Hướng phát triển
  Công ty của chúng tôi sẽ cố gắng phát triển thêm các chức năng để tối ưu hóa trải nghiệm cho người dùng, đem lại những tiện ích thiết thực:
- - Thanh toán Online: Liên kết với tài khoản Momo, VNPay
- - Tài khoản được liên kết với Gmail, Facebook
+ - Thanh toán Online: Liên kết với tài khoản [![Momo](https://img.shields.io/badge/-Momo-red?style=flat-square&logo=momo&logoColor=white)](https://momo.vn)
+[![VNPay](https://img.shields.io/badge/-VNPay-green?style=flat-square&logo=vnpay&logoColor=white)](https://vnpay.vn)
+
+
+ - Tài khoản được liên kết với [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/yourprofile)
+
  - Phân loại khách hàng thân thiết
  - Xem được quá trình vận chuyển của đơn hàng
  - Hủy đơn hàng khi đơn hàng chưa được xác nhận
