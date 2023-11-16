@@ -2,7 +2,11 @@
 
 ![image](https://github.com/LamSiras/Nhom7_QuanLyAppBanDienThoai_T6_Ca3/assets/144895092/bde47b4c-4a30-4a3e-92ac-704aac5394cd)
 
-## Giới Thiệu Đề Tài
+<div>
+<p align="center" width="300">
+   <h1 align="center">Giới thiệu đề tài</h1>
+</p>
+</div>
 
 Công ty HAL_Mobile - Kết nối công nghệ, Kết nối cuộc sống
 
