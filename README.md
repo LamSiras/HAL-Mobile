@@ -15,7 +15,7 @@ Chúng tôi cam kết tạo ra trải nghiệm mua sắm đáng nhớ, với quy
 HAL Mobile không chỉ cung cấp sản phẩm công nghệ hàng đầu mà còn mang đến trải nghiệm mua sắm tuyệt vời nhất. Hãy đồng hành cùng chúng tôi để trải nghiệm sự khác biệt mà công nghệ có thể mang lại cho cuộc sống của bạn. Để biết thêm chi tiết, hãy truy cập [website của chúng tôi](http://www.halmobile.vn).
 
 
-## Nhóm
+## Nhóm 7
 
 | Thành Viên      | Vai Trò            | Liên Kết GitHub                   |
 |-----------------|---------------------|----------------------------------|
