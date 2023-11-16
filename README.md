@@ -17,9 +17,12 @@ HAL Mobile không chỉ cung cấp sản phẩm công nghệ hàng đầu mà c�
 
 ## Nhóm
 
-1. Nguyễn Phúc Thanh Lâm - 21DH110960 - Lead, Dev 
-2. Lê Văn An - 21DH110010 - Product Owner, Dev
-3. Nguyễn Gia Huy - 21DH112511 - Srcum Master, Dev 
+| Thành Viên      | Vai Trò            | Liên Kết GitHub                   |
+|-----------------|---------------------|----------------------------------|
+| Nguyễn Phúc Thanh Lâm | Lead Team      | https://github.com/LamSiras     |
+| Lê Văn An| Product Owner | https://github.com/LeeVanAn    |
+| Nguyễn Gia Huy| Srcum Master           | https://github.com/HEOCHO     |
+
 
 ### Liên Hệ
 
