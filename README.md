@@ -14,8 +14,16 @@ Mục tiêu chính của chúng tôi là phát triển mô hình kinh doanh, t�
 Chúng tôi cam kết tạo ra trải nghiệm mua sắm đáng nhớ, với quy trình thanh toán linh hoạt và các lựa chọn nhận hàng đa dạng. Hệ thống quản lý tiên tiến giúp bạn theo dõi đơn hàng và tình trạng giao hàng một cách nhanh chóng và chính xác.
 
 HAL Mobile không chỉ cung cấp sản phẩm công nghệ hàng đầu mà còn mang đến trải nghiệm mua sắm tuyệt vời nhất. Hãy đồng hành cùng chúng tôi để trải nghiệm sự khác biệt mà công nghệ có thể mang lại cho cuộc sống của bạn. Để biết thêm chi tiết, hãy truy cập [website của chúng tôi](http://www.halmobile.vn).
+## Bảng Hình Ảnh
+# Hình ảnh tại cửa hàng HAL MOBILE
+![image](https://github.com/LamSiras/Gi-i-thi-u-trung-t-m-th-ng-m-i/assets/144895092/7bff3534-59d7-439d-b9cf-7f6de3f58e04)
 
-![image](https://github.com/LamSiras/Gi-i-thi-u-trung-t-m-th-ng-m-i/assets/144895092/dbc91b14-1939-46e2-8e84-a1aba0d21c05) ![image](https://github.com/LamSiras/Gi-i-thi-u-trung-t-m-th-ng-m-i/assets/144895092/5e5b91bd-be98-407e-a777-784172c45fb4)
+# Hình ảnh khách hàng mua sắm và trải nghiệp tại HAL MOBILE
+![image](https://github.com/LamSiras/Gi-i-thi-u-trung-t-m-th-ng-m-i/assets/144895092/c0cd599e-bbc6-463e-9ec1-fde79f379f04)
+
+
+
+
 
 
 ## Nhóm 7
