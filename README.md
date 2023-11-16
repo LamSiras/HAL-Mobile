@@ -6,13 +6,13 @@
 
 Công ty HAL_Mobile - Kết nối công nghệ, Kết nối cuộc sống
 
-  Chào mừng quý khách đến với Công ty HAL_Mobile - nơi mang đến sự hòa quyện hoàn hảo giữa công nghệ và cuộc sống. Với hơn một thập kỷ kinh nghiệm trong lĩnh vực kinh doanh thiết bị điện tử và công nghệ thông tin, chúng tôi tự hào là đối tác đáng tin cậy của hàng ngàn khách hàng trên khắp cả nước.
-Mục tiêu chính của chúng tôi là mở rộng mô hình kinh doanh, tạo nên một không gian thương mại điện tử đẳng cấp trên Internet. Tại HAL_Mobile, quý khách sẽ trải nghiệm được sự thuận lợi và dễ dàng trong việc chọn lựa các sản phẩm, cũng như tiếp cận các chính sách hấp dẫn của công ty.
-Chúng tôi cam kết đảm bảo mỗi lượt ghé thăm website của quý khách trở nên đáng nhớ. Quy trình thanh toán được thiết kế linh hoạt, từ thanh toán trực tuyến đến thanh toán trực tiếp tại cửa hàng. Quý khách có thể lựa chọn nhận hàng tại cửa hàng hoặc sử dụng dịch vụ chuyển hàng thuận tiện của chúng tôi, với nhiều ưu đãi cực hấp dẫn .
-  Để đảm bảo quý khách luôn có được sự cập nhật về tình trạng kinh doanh của mình, chúng tôi đã xây dựng một hệ thống quản lý tiên tiến. Quý khách có thể dễ dàng theo dõi đơn đặt hàng tình trạng giao hàng một cách nhanh chóng và chính xác, khách hàng có thể Feedback sau khi mua hàng.
-  Tại HAL_Mobile, chúng tôi không chỉ cung cấp các sản phẩm công nghệ hàng đầu mà còn mang đến trải nghiệm mua sắm tuyệt vời nhất cho quý khách. Hãy đồng hành cùng chúng tôi để cảm nhận sự khác biệt đáng kể trong cách mà công nghệ có thể làm thay đổi cuộc sống của bạn.
-  
-Để biết thêm thông tin chi tiết, vui lòng truy cập: (http://www.halmobile.vn)
+ Chào mừng bạn đến với HAL Mobile - nơi kết nối công nghệ và cuộc sống hoàn hảo. Với hơn 10 năm kinh nghiệm trong lĩnh vực thiết bị điện tử và công nghệ thông tin, chúng tôi tự hào là đối tác tin cậy của hàng ngàn khách hàng trên toàn quốc.
+
+Mục tiêu chính của chúng tôi là phát triển mô hình kinh doanh, tạo ra không gian thương mại điện tử đẳng cấp trên Internet. Tại HAL Mobile, bạn sẽ trải nghiệm sự thuận lợi và dễ dàng khi chọn lựa sản phẩm, cũng như tiếp cận chính sách hấp dẫn của chúng tôi.
+
+Chúng tôi cam kết tạo ra trải nghiệm mua sắm đáng nhớ, với quy trình thanh toán linh hoạt và các lựa chọn nhận hàng đa dạng. Hệ thống quản lý tiên tiến giúp bạn theo dõi đơn hàng và tình trạng giao hàng một cách nhanh chóng và chính xác.
+
+HAL Mobile không chỉ cung cấp sản phẩm công nghệ hàng đầu mà còn mang đến trải nghiệm mua sắm tuyệt vời nhất. Hãy đồng hành cùng chúng tôi để trải nghiệm sự khác biệt mà công nghệ có thể mang lại cho cuộc sống của bạn. Để biết thêm chi tiết, hãy truy cập [website của chúng tôi](http://www.halmobile.vn).
 
 
 ## Nhóm
